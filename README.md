@@ -2,8 +2,8 @@
 
 Bienvenidos al repo del curso Applied Machine Learning de la Universidad EAFIT
 
-- 01 Intro
-- 02 Regresión
+- [01 Intro](/w01%20-%20Intro/)
+- [02 Regresión]
 - 03 Clasificación
 - 04 Evaluación
 - 05 Despliegue
