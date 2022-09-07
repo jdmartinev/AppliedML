@@ -11,3 +11,4 @@ Bienvenidos al repo del curso Applied Machine Learning de la Universidad EAFIT
 - 07 Redes Neuronales
 - 08 No supervisado
 
+Set environment for the course
